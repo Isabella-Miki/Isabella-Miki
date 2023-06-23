@@ -30,6 +30,9 @@
  <a href="https://www.instagram.com/isa_miki1/"> 
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  <a/><br><br>
+
+ ![Snake animation](https://github.com/seu-usuário-aqui/neofrosch/blob/output/github-contribution-grid-snake.svg)
+
 	 
 	 
 	 
