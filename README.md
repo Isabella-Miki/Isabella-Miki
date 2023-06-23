@@ -1,7 +1,7 @@
  <h1 align="center"> Hello World👋</h1>
  
 <p align="center">
-    My name is Isabella Miki, and <strong>I'm a Front-End Developer! 🚀</strong> <br>
+    My name is Isabella Miki, and <strong>I'm a Front-End Dev! 🚀</strong> <br>
 	Student of Analysis and Systems Development at Fatec - Jales
 </p>
 
