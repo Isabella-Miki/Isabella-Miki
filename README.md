@@ -1,9 +1,15 @@
- <h1 align="center"> Hello World👋</h1>
- 
-<p align="center">
-    My name is Isabella Miki, and <strong>I'm a Front-End Dev! 🚀</strong> <br>
-	Student of Analysis and Systems Development at Fatec - Jales
-</p>
+<h1 align="center">Hello World! Meu nome é Isabella Miki Kobayachi</h1>
+	<ul>
+		<li>
+			Estudante de Análise e Desenvolvimento de Sistemas na Fatec - Jales
+		</li>
+		<li>
+			Apaixonada pelo Desenvolvimento Web
+		</li>
+		<li>
+			Estudando React, TypeScript e UI Design
+		</li>
+	</ul>
 
 <br>
 
@@ -21,9 +27,9 @@
 </div>
 <br>
 
-<h2>📱 Social Media</h2>
+<h2>📱 Redes sociais</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/brunakobayachi/"> 
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/isabella-miki-kobayachi-a34431247/)"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:isabellamiki2004@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
