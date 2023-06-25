@@ -19,7 +19,7 @@
 </div>
 
 <br>
-<h2>📊 Statistics</h2>
+<h2>📊 Estatísticas </h2>
 <div align="center">
   <a href="https://github.com/neofrosch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neofrosch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,7 @@
 
 <h2>📱 Redes sociais</h2>
 <div align="center">
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/isabella-miki-kobayachi-a34431247/)"> 
+<a href="https://www.linkedin.com/in/isabella-miki-kobayachi-a34431247/"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:isabellamiki2004@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
