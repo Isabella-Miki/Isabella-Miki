@@ -7,7 +7,7 @@
 			Apaixonada pelo Desenvolvimento Web
 		</li>
 		<li>
-			Estudando React, TypeScript e UI Design
+			Estudando React, TypeScript, NextJS e UI Design
 		</li>
 	</ul>
 
