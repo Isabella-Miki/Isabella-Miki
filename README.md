@@ -4,10 +4,7 @@
 			Estudante de Análise e Desenvolvimento de Sistemas na Fatec - Jales
 		</li>
 		<li>
-			Apaixonada pelo Desenvolvimento Web
-		</li>
-		<li>
-			Estudando React, TypeScript, NextJS e UI Design
+			Estudando Ciência de Dados
 		</li>
 	</ul>
 
@@ -15,7 +12,16 @@
 
 <h2>💻Tech Stack</h2> 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,bootstrap,tailwind,vite"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+"/> 
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+"/> 
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white"/> 
 </div>
 
 <br>
