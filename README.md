@@ -4,6 +4,9 @@
 			Estudante de Análise e Desenvolvimento de Sistemas na Fatec - Jales
 		</li>
 		<li>
+			Estudante de Finanças (curso técnico) na Etec - Jales
+		</li>
+		<li>
 			Estudando Ciência de Dados
 		</li>
 	</ul>
@@ -40,13 +43,5 @@
 <a href="mailto:isabellamiki2004@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <a/>
- <a href="https://www.instagram.com/isa_miki1/"> 
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- <a/><br><br><br>
-
-
-<span align="center"> #NeverStopLearning 🚀</span>
-
-	 
-	 
+ <br><br><br>
 </div>
