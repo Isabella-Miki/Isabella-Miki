@@ -4,9 +4,6 @@
 			Estudante de Análise e Desenvolvimento de Sistemas na Fatec - Jales
 		</li>
 		<li>
-			Estudante de Finanças (curso técnico) na Etec - Jales
-		</li>
-		<li>
 			Estudando Ciência de Dados
 		</li>
 		<li>
