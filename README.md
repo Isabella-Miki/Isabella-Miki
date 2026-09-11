@@ -12,7 +12,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 Sou **Tecnóloga em Análise e Desenvolvimento de Sistemas pela FATEC Jales** e atuo na área de Dados, com experiência em **Business Intelligence, análise de dados e desenvolvimento de soluções orientadas a dados**.
-Atualmente, trabalho como Analista de Dados na Precisão Sistemas, atuando tanto na parte **técnica** quanto na **gestão e organização de processos, demandas e projetos**.
+Atualmente, trabalho como Analista de Dados na Precisão Sistemas.
 
 Tenho interesse principalmente em:
 
