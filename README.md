@@ -1,13 +1,7 @@
 <h1 align="center">Hello World! Meu nome é Isabella Miki Kobayachi</h1>
 	<ul>
 		<li>
-			Estudante de Análise e Desenvolvimento de Sistemas na Fatec - Jales
-		</li>
-		<li>
-			Estudando Ciência de Dados
-		</li>
-		<li>
-			Visite meu Porfolio: https://app.powerbi.com/view?r=eyJrIjoiMTc0YmUzMGQtNzc3Zi00MDBkLTkwN2QtZGQ3N2FkYjg4MDU4IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+			Tecnóloga em Análise e Desenvolvimento de Sistemas na Fatec - Jales
 		</li>
 	</ul>
 
