@@ -68,6 +68,8 @@ Projetos envolvendo análise exploratória, estatística e Machine Learning, inc
 **📋 Gestão de Dados**
 
 Estruturação de processos, priorização de demandas, qualidade de dados, documentação e governança.
+
+
 ---
 
 ## 📚 Formação & Certificações
